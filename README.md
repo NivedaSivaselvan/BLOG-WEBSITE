@@ -1,7 +1,9 @@
 # Blog Website  and Application 
 STAY TUNED BLOCK WEBSITE IS A DYNAMIC AND INTERACTIVE WEBSITE.
 This project is a scaled-down version of a live blogging platform. The implementation aims to be straightforward and devoid of unnecessary dependencies. A blog website allows users to opine their thoughts  and comment on anything and everything. 
-https://nivedasivaselvan.github.io/BLOG-WEBSITE/
+Live link:
+https://nivedasivaselvan.github.io/BLOG-WEBSITE/ [github]
+https://app.netlify.com/teams/nivedasivaselvan/builds/645fbb835d7902602898b1ed [netlify]
 ## Specifications of this Website:
 * Have a blog-specific editor.
 * Blogs with dynamic pages.
